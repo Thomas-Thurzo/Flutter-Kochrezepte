@@ -7,7 +7,7 @@ class Page1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text('Page 1')),
+      appBar: AppBar(automaticallyImplyLeading: false, title: Text('Page 1')),
       body: Center(
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,

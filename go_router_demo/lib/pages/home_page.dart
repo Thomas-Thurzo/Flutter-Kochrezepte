@@ -13,15 +13,15 @@ class HomePage extends StatelessWidget {
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
             ElevatedButton(
-              onPressed: () => context.go('/page1'),
+              onPressed: () => context.goNamed('page1'),
               child: Text('Page 1'),
             ),
             ElevatedButton(
-              onPressed: () => context.go('/page2'),
+              onPressed: () => context.goNamed('page2'),
               child: Text('Page 2'),
             ),
             ElevatedButton(
-              onPressed: () => context.go('/page3'),
+              onPressed: () => context.goNamed('page3'),
               child: Text('Page 3'),
             ),
           ],

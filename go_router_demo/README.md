@@ -1,3 +1,3 @@
-# go_router_demo
+# Eine Demo App für das Package GoRouter
 
-A new Flutter project.
+
