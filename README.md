@@ -1,2 +1,2 @@
 # Flutter-Kochrezepte
-Flutter Copy &amp; Past Kochrezepte
+Flutter Copy &amp; Paste Kochrezepte
